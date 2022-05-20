@@ -18,7 +18,7 @@ Selection sort works by repeatedly finding the minimum element from an unsorted 
 
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
 
-> $ ./run.sh
+> ./run.sh
 
 ## Status
 
@@ -26,8 +26,8 @@ Project is: _finished_
 
 ## Language details
 
-Language used: Java </br>
-Version used: 11.0.8
+Language: Java </br>
+Version: 11.0.15
 
 ## Contact
 

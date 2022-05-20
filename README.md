@@ -23,11 +23,10 @@ In order to run, clone this repo onto your local machine. Navigated to the algor
 ## Software details
 
 Language: Java</br>
-Version: 11.0.8
+Version: 11.0.15
 
 ## Status
 
-Version: 1.0.0</br>
 Project is: _in progress_
 
 ## Contact
