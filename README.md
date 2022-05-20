@@ -1,8 +1,8 @@
-[![license](https://img.shields.io/github/license/cameronmathis/RepoTemplate)](LICENSE)
-[![CodeQL](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate/badge)](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate)
+[![license](https://img.shields.io/github/license/cameronmathis/Algorithms)](LICENSE)
+[![CodeQL](https://github.com/cameronmathis/Algorithms/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/Algorithms/actions/workflows/codeql-analysis.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/Algorithms/badge)](https://www.codefactor.io/repository/github/cameronmathis/Algorithms)
 
-# Repo Template
+# Algorithms
 
 ## Table of contents
 
@@ -14,19 +14,20 @@
 
 ## General info
 
-This is a template I created to easily spin up new GitHub Repositories.
+This is a repository I created to keep up with algorithms I find interesting.
 
 ## Setup
 
-In order to use this...
+In order to run, clone this repo onto your local machine. Navigated to the algorithm folder and follow the instructions:
 
 ## Software details
 
-Language:
+Language: Java</br>
+Version: 11.0.8
 
 ## Status
 
-Version: </br>
+Version: 1.0.0</br>
 Project is: _in progress_
 
 ## Contact
