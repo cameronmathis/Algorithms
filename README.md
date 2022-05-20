@@ -1,5 +1,4 @@
 [![license](https://img.shields.io/github/license/cameronmathis/Algorithms)](LICENSE)
-[![CodeQL](https://github.com/cameronmathis/Algorithms/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/Algorithms/actions/workflows/codeql-analysis.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/Algorithms/badge)](https://www.codefactor.io/repository/github/cameronmathis/Algorithms)
 
 # Algorithms
