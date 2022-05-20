@@ -8,7 +8,6 @@
 - [General info](#general-info)
 - [Setup](#setup)
 - [Software details](#Software-details)
-- [Status](#status)
 - [Contact](#contact)
 
 ## General info
@@ -23,10 +22,6 @@ In order to run, clone this repo onto your local machine. Navigated to the algor
 
 Language: Java</br>
 Version: 11.0.15
-
-## Status
-
-Project is: _in progress_
 
 ## Contact
 
