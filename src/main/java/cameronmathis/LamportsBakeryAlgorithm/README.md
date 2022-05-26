@@ -1,4 +1,4 @@
-# Lambert's Bakery Algorithm
+# Lamport's Bakery Algorithm
 
 ## Algorithm details
 
